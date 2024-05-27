@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Tushar98644/CoDev/internal/handlers"
-	"github.com/Tushar98644/CoDev/pkg/websockets"
+	"github.com/Tushar98644/AidConnect/internal/handlers"
+	"github.com/Tushar98644/AidConnect/pkg/websockets"
 )
 
 const portNum string = ":8080" 

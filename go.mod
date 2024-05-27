@@ -1,4 +1,4 @@
-module github.com/Tushar98644/CoDev
+module github.com/Tushar98644/AidConnect
 
 go 1.22.1
 
